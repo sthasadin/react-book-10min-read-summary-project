@@ -1,0 +1,9 @@
+.banner {
+  /* border: solid gray 1px; */
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 15rem;
+  background-color: #d8e2dc;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+}

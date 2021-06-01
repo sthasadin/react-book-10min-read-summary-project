@@ -1,0 +1,11 @@
+.myBookSection {
+  /* border: solid gray 1px; */
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.myBookSection_bookSection {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  flex-wrap: wrap;
+}

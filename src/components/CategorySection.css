@@ -1,0 +1,6 @@
+.categorySection {
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem;
+  /* border: solid gray 1px; */
+}
